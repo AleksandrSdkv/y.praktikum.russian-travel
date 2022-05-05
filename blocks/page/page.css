@@ -1,0 +1,7 @@
+.page {
+    font-family: "interregular", sans-serif;
+    border: 1px saddlebrown solid;
+    background-color: #2A2C2F;
+    min-width: 320px;
+    max-width: 1600px;
+}
