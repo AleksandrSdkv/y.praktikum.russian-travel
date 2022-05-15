@@ -1,11 +1,12 @@
 .header__logo {
     height: 52px;
     width: 176px;
+    background-image: url("../../image/__logo.svg");
 }
 
 @media (max-width: 767px) {
     .header__logo {
-        height: 42px;
+        height: 52px;
         width: 142px;
     }
 }
