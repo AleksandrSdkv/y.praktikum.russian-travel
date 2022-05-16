@@ -4,8 +4,6 @@
     width: calc(100% - 2 * 48px);
     justify-content: space-between;
     align-items: center;
-    background-image: url("../../image/__logo.svg");
-    background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 984px) {
