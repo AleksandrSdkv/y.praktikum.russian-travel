@@ -7,27 +7,18 @@
         line-height: 36px;
         color: #FFFFFF;
     }
-    
-    @media screen and (max-width: 767px) {
-        .lead__subtitle {
-            max-width: 430px;
-            font-size: 25px;
-            line-height: 36px;
-        }
-    }
-    
-    @media screen and (max-width: 520px) {
+
+    @media screen and (max-width: 730px) {
         .lead__subtitle {
             max-width: 320px;
             font-size: 16px;
             line-height: 20px;
+            margin-top: 16px;
         }
     }
-    
-    @media screen and (max-width:320px) {
+
+    @media screen and (max-width:420px) {
         .lead__subtitle {
             max-width: 288px;
-            font-size: 16px;
-            line-height: 20px;
         }
     }

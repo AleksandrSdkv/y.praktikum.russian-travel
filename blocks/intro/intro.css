@@ -6,7 +6,6 @@
 
     @media screen and (max-width:1280px) {
         .intro {
-            margin: 92px 0 0 0;
             max-width: 690px;
             padding-left: calc(48px + (148 - 48) * ((100vw - 1024px) / (1280 - 1024)));
             /* Были вопросы с padding при переходе с 1280 до 1024 решил применить этот медод */
@@ -20,16 +19,17 @@
         }
     }
 
-    @media screen and (max-width:768px) {
+    @media screen and (max-width:769px) {
         .intro {
+            margin: 88px 0 0 0;
             max-width: 720px;
             padding: 0 24px 0 24px;
         }
     }
 
-    @media screen and (max-width:768px) {
+    @media screen and (max-width: 470px) {
         .intro {
-            max-width: 720px;
+            margin: 64px 0 0 0;
             padding: 0 16px 0 16px;
         }
     }

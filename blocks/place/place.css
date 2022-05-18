@@ -4,15 +4,24 @@
     gap: 48px;
     grid-template-columns: repeat(2, minmax(216px, 1fr));
     margin-bottom: 80px;
+    row-gap: 48px;
+    column-gap: 26px;
 }
 
 .place:last-child {
     margin: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 769px) {
+    .place {
+        margin-bottom: 73px;
+    }
+}
+
+@media screen and (max-width: 545px) {
     .place {
         grid-template-columns: 1fr;
         gap: 32px;
+        margin-bottom: 50px;
     }
 }

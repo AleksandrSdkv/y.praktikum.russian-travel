@@ -3,8 +3,9 @@
     max-width: 100%;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 500px) {
     .place__image {
         grid-row: 3;
+        justify-self: center;
     }
 }
