@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+[Typing SVG](https://project-cards.jtpotatodev.workers.dev/?project=Путешествие%20по%20России&started=1%20May%202022&codename=Alexandr)
 
 [Открыть страницу](https://aleksandrsdkv.github.io/y.praktikum.russian-travel/)
 ---
